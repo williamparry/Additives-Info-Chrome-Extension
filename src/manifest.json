@@ -1,0 +1,14 @@
+{
+  "name": "Additives Info - Uncompressed",
+  "version": "0.1.1",
+  "icons": {
+    "48": "img/logo.png"
+  },
+  "description": "View information about additives in your food and drink",
+  "browser_action": {
+    "default_icon": "img/icon.png",
+    "popup": "popup.html"
+  },
+  "permissions": [
+  ]
+}
